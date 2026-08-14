@@ -114,9 +114,9 @@ const articles = [
     {
         id: 13,
         type: "meme",
-        image: "photos/ad1.jpg",
+        image: "photos/ad11.png",
         color: "#dcf3f7ff"
-    },
+   },
 
         {
         id: 14,
